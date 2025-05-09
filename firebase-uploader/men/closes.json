@@ -1,0 +1,430 @@
+{
+  "closes": {
+    "Boys Sweatshirts": [
+      {
+        "price": {
+          "amount": 509,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "SWS24WHNK26028TB1",
+          "id": "8136800403680",
+          "type": "Boys Sweatshirts"
+        },
+        "id": "44288685539552",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/1_7dbf4f2b-dd7a-4277-9104-da9f7be3efcf.png?v=1707829962"
+        },
+        "title": "Dark Teal / 10",
+        "in_stock": false,
+        "quantity": 41,
+        "brand": ["Town Team"],
+        "sizes": ["XS", "2XL"],
+        "colors": ["Red", "Green"]
+      },
+      {
+        "price": {
+          "amount": 389,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "SWS23WMIL26722TB1",
+          "id": "8136795357408",
+          "type": "Boys Sweatshirts"
+        },
+        "id": "44288640909536",
+        "image": {
+          "src": "//townteam.com/cdn/shop/products/DSC_6692.jpg?v=1687264097"
+        },
+        "title": "Orange / 4",
+        "in_stock": true,
+        "quantity": 1,
+        "brand": ["Cuba"],
+        "sizes": ["S", "4XL", "XL", "L"],
+        "colors": ["Orange", "Green"]
+      },
+      {
+        "price": {
+          "amount": 449,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "SWS23WMIL31423TB1",
+          "id": "8136795291872",
+          "type": "Boys Sweatshirts"
+        },
+        "id": "44288640483552",
+        "image": {
+          "src": "//townteam.com/cdn/shop/products/SWS23WMIL26791TM1-MUSTARD_1of4.jpg?v=1697546851"
+        },
+        "title": "Navy / 4",
+        "in_stock": true,
+        "quantity": 97,
+        "brand": ["River Nine"],
+        "sizes": ["4XL", "S", "6XL"],
+        "colors": ["green", "Black"]
+      },
+      {
+        "price": {
+          "amount": 449,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "SWS24WHNK26060TB1",
+          "id": "8136801026272",
+          "type": "Boys Sweatshirts"
+        },
+        "id": "44288689471712",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/TST25SSPT15004TM1-Beige.jpg?v=1743590070"
+        },
+        "title": "White*Navy / 10",
+        "in_stock": false,
+        "quantity": 66,
+        "brand": ["Town Team"],
+        "sizes": ["L", "4XL"],
+        "colors": ["White", "Black"]
+      },
+      {
+        "price": {
+          "amount": 509,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "SWS24WRAL26042TB1",
+          "id": "8136800469216",
+          "type": "Boys Sweatshirts"
+        },
+        "id": "44288685932768",
+        "image": {
+          "src": "//townteam.com/cdn/shop/products/SWS23WMIL26797TM1-CHARCOAL_1.jpg?v=1710360280"
+        },
+        "title": "Beige / 10",
+        "in_stock": true,
+        "quantity": 54,
+        "brand": ["Town Team"],
+        "sizes": ["2XL", "XS"],
+        "colors": ["Blue", "White"]
+      },
+      {
+        "price": {
+          "amount": 429,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "SWS24WHAK26021TB1",
+          "id": "8136800174304",
+          "type": "Boys Sweatshirts"
+        },
+        "id": "44288683671776",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/PUL23WCOT27447TM1-Navy.jpg?v=1744115703"
+        },
+        "title": "Beige / 10",
+        "in_stock": false,
+        "quantity": 31,
+        "brand": ["River Nine"],
+        "sizes": ["XS", "2XL", "3XL"],
+        "colors": ["Blue", "White"]
+      }
+    ],
+    "Boys Pullovers": [
+      {
+        "price": {
+          "amount": 379,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "PUL23WAYC27506TB1",
+          "id": "8136795783392",
+          "type": "Boys Pullovers"
+        },
+        "id": "44288644940000",
+        "image": {
+          "src": "//townteam.com/cdn/shop/products/DSC_6257.jpg?v=1699699425"
+        },
+        "title": "Wine / 4",
+        "in_stock": false,
+        "quantity": 61,
+        "brand": ["Town Team"],
+        "sizes": ["4XL", "2XL"],
+        "colors": ["Grey", "White"]
+      },
+      {
+        "price": {
+          "amount": 379,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "PUL23WAYC27516TB1",
+          "id": "8136795095264",
+          "type": "Boys Pullovers"
+        },
+        "id": "44288638779616",
+        "image": {
+          "src": "//townteam.com/cdn/shop/products/DSC_6661_e92353b1-9a7e-4f0b-8b26-dc09f6f614c5.jpg?v=1725092444"
+        },
+        "title": "Light Grey / 4",
+        "in_stock": true,
+        "quantity": 16,
+        "brand": ["River Nine"],
+        "sizes": ["S", "6XL", "M"],
+        "colors": ["Blue", "Black"]
+      },
+      {
+        "price": {
+          "amount": 379,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "PUL23WAYC27500TB1",
+          "id": "8136794931424",
+          "type": "Boys Pullovers"
+        },
+        "id": "44288636059872",
+        "image": {
+          "src": "//townteam.com/cdn/shop/products/4_4d0ed304-cfce-4447-96cc-83d9f9958dcb.jpg?v=1706090361"
+        },
+        "title": "Navy / 4",
+        "in_stock": true,
+        "quantity": 43,
+        "brand": ["Town Team"],
+        "sizes": ["4"],
+        "colors": ["Red", "Black"]
+      },
+      {
+        "price": {
+          "amount": 449,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "PUL24WPSD27703TB1",
+          "id": "8136799748320",
+          "type": "Boys Pullovers"
+        },
+        "id": "44288680231136",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/SWS23WMIL26784TM1-Brown.jpg?v=1741118261"
+        },
+        "title": "Navy / 10",
+        "in_stock": false,
+        "quantity": 48,
+        "brand": ["River Nine"],
+        "sizes": ["3XL", "XL", "L"],
+        "colors": ["Orange", "Grey"]
+      },
+      {
+        "price": {
+          "amount": 429,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "PUL24WPPH27634TB1",
+          "id": "8136798830816",
+          "type": "Boys Pullovers"
+        },
+        "id": "44288675184864",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/SWS23WMIL26702TM1_Charcoal.jpg?v=1700989038"
+        },
+        "title": "Beige / 10",
+        "in_stock": true,
+        "quantity": 13,
+        "brand": ["Cuba"],
+        "sizes": ["3XL", "2XL"],
+        "colors": ["Black", "green"]
+      },
+      {
+        "price": {
+          "amount": 429,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "PUL24WPPD27633TB1",
+          "id": "8136798798048",
+          "type": "Boys Pullovers"
+        },
+        "id": "44288674988256",
+        "image": {
+          "src": "//townteam.com/cdn/shop/products/DSC_6346_1ca0c4c7-dfcb-42c0-99d9-d01614e89945.jpg?v=1706090417"
+        },
+        "title": "Natural / 10",
+        "in_stock": true,
+        "quantity": 36,
+        "brand": ["River Nine"],
+        "sizes": ["3XL", "2XL"],
+        "colors": ["Black", "green"]
+      },
+      {
+        "price": {
+          "amount": 429,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "PUL24WPCH27615TB1",
+          "id": "8136798339296",
+          "type": "Boys Pullovers"
+        },
+        "id": "44288671875296",
+        "image": {
+          "src": "//townteam.com/cdn/shop/products/DSC_6671_462f74e4-e2bb-4ad0-a606-385bc50afdf5.jpg?v=1734942627"
+        },
+        "title": "Navy*Brown / 10",
+        "in_stock": false,
+        "quantity": 24,
+        "brand": ["Town Team"],
+        "sizes": ["S", "6XL", "M"],
+        "colors": ["White", "Red"]
+      },
+      {
+        "price": {
+          "amount": 429,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "PUL24WPPZ27623TB1",
+          "id": "8136798240992",
+          "type": "Boys Pullovers"
+        },
+        "id": "44288670859488",
+        "image": {
+          "src": "//townteam.com/cdn/shop/products/DSC_6438.jpg?v=1664887859"
+        },
+        "title": "Light Beige / 10",
+        "in_stock": true,
+        "quantity": 16,
+        "brand": ["Cuba"],
+        "sizes": ["3XL", "2XL"],
+        "colors": ["White", "Orange"]
+      },
+      {
+        "price": {
+          "amount": 399,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "PUL23WCOT27433TB1",
+          "id": "8136794865888",
+          "type": "Boys Pullovers"
+        },
+        "id": "44288635797728",
+        "image": {
+          "src": "//townteam.com/cdn/shop/products/SWS23WCOT26586TM1-NAVY_1.jpg?v=1710360421"
+        },
+        "title": "Indigo / 4",
+        "in_stock": false,
+        "quantity": 86,
+        "brand": ["Town Team"],
+        "sizes": ["M", "6XL", "XS"],
+        "colors": ["green", "Black"]
+      }
+    ],
+    "Boys Jackets": [
+      {
+        "price": {
+          "amount": 699,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "JAC23WLET28365TB1",
+          "id": "8136795914464",
+          "type": "Boys Jackets"
+        },
+        "id": "44288646676704",
+        "image": {
+          "src": "//townteam.com/cdn/shop/products/SWS23WMIL26776TM1-LEMON_1.jpg?v=1671437196"
+        },
+        "title": "Light Brown / 4",
+        "in_stock": false,
+        "quantity": 23,
+        "brand": ["Cuba"],
+        "sizes": ["4XL", "XS", "2XL"],
+        "colors": ["Black", "Blue"]
+      },
+      {
+        "price": {
+          "amount": 899,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "JAC23WFWP28808TB1",
+          "id": "8136795586784",
+          "type": "Boys Jackets"
+        },
+        "id": "44288643465440",
+        "image": {
+          "src": "//townteam.com/cdn/shop/products/SWS22WMIL26547TM1-MANGO_1of4.jpg?v=1669326423"
+        },
+        "title": "Mustard / 4",
+        "in_stock": true,
+        "quantity": 83,
+        "brand": ["River Nine"],
+        "sizes": ["3XL", "4XL"],
+        "colors": ["White", "Green"]
+      },
+      {
+        "price": {
+          "amount": 749,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "JAC24WHCP28428TB1",
+          "id": "8136800960736",
+          "type": "Boys Jackets"
+        },
+        "id": "44288688947424",
+        "image": {
+          "src": "//townteam.com/cdn/shop/products/POS22SPIQ21440TM1-MELON.jpg?v=1690968200"
+        },
+        "title": "Black / 10",
+        "in_stock": false,
+        "quantity": 18,
+        "brand": ["River Nine"],
+        "sizes": ["4XL", "XS", "2XL"],
+        "colors": ["Black", "Grey"]
+      },
+      {
+        "price": {
+          "amount": 1079,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "JAC24WFWP28817TB1",
+          "id": "8136797552864",
+          "type": "Boys Jackets"
+        },
+        "id": "44288664830176",
+        "image": {
+          "src": "//townteam.com/cdn/shop/products/POS21SPIQ21261TM1-DK.NAVY.jpg?v=1671867651"
+        },
+        "title": "Grey/Neon / 4",
+        "in_stock": false,
+        "quantity": 18,
+        "brand": ["Town Team"],
+        "sizes": ["4XL", "XS", "2XL"],
+        "colors": ["White", "Green"]
+      },
+      {
+        "price": {
+          "amount": 699,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "JAC23WFWP28816TB1",
+          "id": "8011602985184",
+          "type": "Boys JACKET"
+        },
+        "id": "43919083700448",
+        "image": {
+          "src": "//townteam.com/cdn/shop/products/DSC_5508_e6c5fb76-68fd-4e4f-b5e8-62a05b2e8c61.jpg?v=1667661596"
+        },
+        "title": "Green / 4",
+        "in_stock": false,
+        "quantity": 32,
+        "brand": ["River Nine"],
+        "sizes": ["L", "XL", "3XL"],
+        "colors": ["Green", "Black"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,471 @@
+{
+  "trousers": {
+    "Jeans": [
+      {
+        "title": "JNS25GMGW24307TM1",
+
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/JNS25GMGW24307TM1-Black_165x.jpg?v=1743251908"
+        },
+
+        "price": { "amount": 1599.0, "currencyCode": "EGP" },
+
+        "discount": { "percentage": "50%", "label": "Sale" },
+
+        "fit": "Standard",
+
+        "in_stock": false,
+
+        "color": ["Navy", "Grey"],
+
+        "sizes": ["M", "L", "XL"],
+        "brand": ["Town Team"],
+
+        "id": "434608345254010"
+      },
+
+      {
+        "title": "JNS25GBBW22146TM1",
+
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/JNS25GBBW22146TM1-Blue_165x.jpg?v=1743251650"
+        },
+
+        "price": { "amount": 1399.0, "currencyCode": "EGP" },
+
+        "discount": { "percentage": "50%", "label": "Sale" },
+
+        "fit": "Standard",
+
+        "in_stock": true,
+
+        "color": ["Black", "Green", "Beige"],
+
+        "sizes": ["S", "M", "L", "2XL"],
+        "brand": ["Cuba"],
+
+        "id": "434608345254011"
+      },
+
+      {
+        "title": "JNS25GBBW22144TM1",
+
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/JNS25GBBW22144TM1-Black_165x.jpg?v=1743251612"
+        },
+
+        "price": { "amount": 1399.0, "currencyCode": "EGP" },
+
+        "discount": { "percentage": "50%", "label": "Sale" },
+
+        "fit": "Standard",
+
+        "in_stock": true,
+
+        "color": ["Blue", "White"],
+
+        "sizes": ["M", "L"],
+        "brand": ["River Nine"],
+
+        "id": "434608345254012"
+      },
+
+      {
+        "title": "JNS22SFDN22728TM1",
+
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/JNS22SFDN22728TM1-BLUE_1_ded1d9df-162c-4e1f-b7bf-d7926035e3c4_165x.jpg?v=1744304969"
+        },
+
+        "price": { "amount": 1149.0, "currencyCode": "EGP" },
+
+        "discount": { "percentage": "50%", "label": "Sale" },
+
+        "fit": "Slim",
+
+        "in_stock": false,
+
+        "color": ["Green", "Olive", "Black"],
+
+        "sizes": ["L", "XL", "2XL"],
+        "brand": ["Cuba"],
+
+        "id": "434608345254013"
+      },
+
+      {
+        "title": "JNS25GPSX22142TM1",
+
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/JNS25GPSX22142TM1-L-BLUE_165x.jpg?v=1740922533"
+        },
+
+        "price": { "amount": 1199.0, "currencyCode": "EGP" },
+
+        "discount": { "percentage": "50%", "label": "Sale" },
+
+        "fit": "Slim",
+
+        "in_stock": true,
+
+        "color": ["Blue", "Grey"],
+
+        "sizes": ["S", "M", "L", "XL", "2XL"],
+        "brand": ["Town Team"],
+
+        "id": "434608345254015"
+      },
+
+      {
+        "title": "JNS24GMBW22137TM1",
+
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/JNS24GMBW22137TM1-Grey_165x.jpg?v=1740922512"
+        },
+
+        "price": { "amount": 1199.0, "currencyCode": "EGP" },
+
+        "discount": { "percentage": "50%", "label": "Sale" },
+
+        "fit": "Standard",
+
+        "in_stock": false,
+
+        "color": ["Brown", "Beige", "Grey"],
+
+        "sizes": ["M", "L"],
+        "brand": ["Cuba"],
+
+        "id": "434608345254016"
+      },
+
+      {
+        "title": "JNS22SFDN22727TM1",
+
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/JNS22SFDN22727TM1-Black_165x.jpg?v=1744304967"
+        },
+
+        "price": { "amount": 1149.0, "currencyCode": "EGP" },
+
+        "discount": { "percentage": "50%", "label": "Sale" },
+
+        "fit": "Slim",
+
+        "in_stock": true,
+
+        "color": ["White", "Blue"],
+
+        "sizes": ["XS", "S", "M"],
+        "brand": ["River Nine"],
+
+        "id": "434608345254017"
+      },
+
+      {
+        "title": "JNS22SFDN22724TM1",
+
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/11_f3eaa0f3-6ec4-486c-8283-a6c0edf56547_165x.jpg?v=1744304961"
+        },
+
+        "price": { "amount": 1249.0, "currencyCode": "EGP" },
+
+        "discount": { "percentage": "50%", "label": "Sale" },
+
+        "fit": "Slim",
+
+        "in_stock": false,
+
+        "color": ["Black"],
+
+        "sizes": ["L", "2XL", "3XL"],
+        "brand": ["Town Team"],
+
+        "id": "434608345254018"
+      },
+
+      {
+        "title": "JNS22SFDN22717TM1",
+
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/JNS22SFDN22717TM1-Black_165x.jpg?v=1744304952"
+        },
+
+        "price": { "amount": 1149.0, "currencyCode": "EGP" },
+
+        "discount": { "percentage": "50%", "label": "Sale" },
+
+        "fit": "Slim",
+
+        "in_stock": true,
+
+        "color": ["Navy", "Grey", "Olive"],
+
+        "sizes": ["M", "L", "XL"],
+        "brand": ["Cuba"],
+
+        "id": "434608345254019"
+      },
+
+      {
+        "title": "JNS22GFDN22922TM1",
+
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/DSC_9941_74a9c717-89c0-4831-a24e-5b999268814b_165x.jpg?v=1740919947"
+        },
+
+        "price": { "amount": 919.0, "currencyCode": "EGP" },
+
+        "discount": { "percentage": "60%", "label": "Sale" },
+
+        "fit": "Slim",
+
+        "in_stock": true,
+
+        "color": ["White", "Grey"],
+
+        "sizes": ["S", "M"],
+        "brand": ["River Nine"],
+
+        "id": "434608345254024"
+      },
+
+      {
+        "title": "JNS22SFDN22761TM1",
+
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/JOG22SFDN24172TM1-LightBlue_41283348-c133-4604-ac3f-e4967621f3dd_165x.jpg?v=1740920130"
+        },
+
+        "price": { "amount": 919.0, "currencyCode": "EGP" },
+
+        "discount": { "percentage": "60%", "label": "Sale" },
+
+        "fit": "Slim",
+
+        "in_stock": false,
+
+        "color": ["Blue", "Black"],
+
+        "sizes": ["M", "L", "XL", "2XL"],
+        "brand": ["Town Team"],
+
+        "id": "434608345254027"
+      }
+    ],
+
+    "Joggers": [
+      {
+        "title": "JOG25GGBL24005TM1",
+
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/JOG25GGBL24005TM1-Beige_165x.jpg?v=1743251923"
+        },
+
+        "price": { "amount": 1499.0, "currencyCode": "EGP" },
+
+        "discount": { "percentage": "50%", "label": "Sale" },
+
+        "fit": "Standard",
+
+        "in_stock": true,
+
+        "color": ["Beige", "White"],
+
+        "sizes": ["M", "L"],
+        "brand": ["Cuba"],
+
+        "id": "43460834525409"
+      },
+
+      {
+        "title": "JOG24GGWL24303TM1",
+
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/JOG24GGWL24303TM1-Black_165x.jpg?v=1740922610"
+        },
+
+        "price": { "amount": 1499.0, "currencyCode": "EGP" },
+
+        "discount": { "percentage": "50%", "label": "Sale" },
+
+        "fit": "Standard",
+
+        "in_stock": false,
+
+        "color": ["Black", "Grey", "Olive"],
+
+        "sizes": ["S", "M", "L", "XL"],
+        "brand": ["Town Team"],
+
+        "id": "434608345254014"
+      },
+
+      {
+        "title": "JOG24GGPL24289TS1",
+
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/JOG24GGPL24289TM1-L-BEIGE_4bddffa5-cb90-4db4-bfbb-5513af1deb04_165x.jpg?v=1740922577"
+        },
+
+        "price": { "amount": 1499.0, "currencyCode": "EGP" },
+
+        "discount": { "percentage": "50%", "label": "Sale" },
+
+        "fit": "Standard",
+
+        "in_stock": true,
+
+        "color": ["Beige", "Brown"],
+
+        "sizes": ["M", "L", "2XL"],
+        "brand": ["River Nine"],
+
+        "id": "434608345254023"
+      }
+    ],
+
+    "Pants": [
+      {
+        "title": "PAN22GFGA23557TS1",
+
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/PAN22GFGA23557TM1-Olive_91c9aace-bd65-43e7-8b8c-5abb97489eaf_165x.jpg?v=1740920248"
+        },
+
+        "price": { "amount": 959.0, "currencyCode": "EGP" },
+
+        "discount": { "percentage": "60%", "label": "Sale" },
+
+        "fit": "Standard",
+
+        "in_stock": false,
+
+        "color": ["Olive", "Green"],
+
+        "sizes": ["L", "XL"],
+        "brand": ["Town Team"],
+
+        "id": "434608345254020"
+      },
+
+      {
+        "title": "PAN25WGES23602TS1",
+
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/PAN25WGES23602TM1-L-BROWN_292eebe8-54af-427b-ad2e-7bc9da2f8f07_165x.jpg?v=1740922661"
+        },
+
+        "price": { "amount": 1199.0, "currencyCode": "EGP" },
+
+        "discount": { "percentage": "50%", "label": "Sale" },
+
+        "fit": "Standard",
+
+        "in_stock": true,
+
+        "color": ["Brown", "Beige", "Black"],
+
+        "sizes": ["M", "L", "XL"],
+        "brand": ["Town Team"],
+
+        "id": "434608345254021"
+      },
+
+      {
+        "title": "PAN22GFGA23251TM1",
+
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/PAN22GFGA23251TM1-BLACK_1_165x.jpg?v=1740920236"
+        },
+
+        "price": { "amount": 879.0, "currencyCode": "EGP" },
+
+        "discount": { "percentage": "60%", "label": "Sale" },
+
+        "fit": "Standard",
+
+        "in_stock": true,
+
+        "color": ["Black", "Grey"],
+
+        "sizes": ["S", "M", "L", "2XL", "3XL"],
+        "brand": ["Cuba"],
+
+        "id": "434608345254022"
+      },
+
+      {
+        "title": "PAN23WFGA23582TM1",
+
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/PAN23WFGA23582TM1-Beige_2a512faa-b886-4979-9783-9cd2db7e148a_165x.jpg?v=1741117118"
+        },
+
+        "price": { "amount": 649.0, "currencyCode": "EGP" },
+
+        "discount": { "percentage": "69%", "label": "Sale" },
+
+        "fit": "Standard",
+
+        "in_stock": false,
+
+        "color": ["Navy", "Beige"],
+
+        "sizes": ["S", "M"],
+        "brand": ["River Nine"],
+
+        "id": "434608345254025"
+      },
+
+      {
+        "title": "PAN22GFGA23250TS1",
+
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/PAN22GFGA23250TM1-OTTER_1f6b8405-7145-4e45-9be3-0c580fa5488e_165x.jpg?v=1740920231"
+        },
+
+        "price": { "amount": 959.0, "currencyCode": "EGP" },
+
+        "discount": { "percentage": "60%", "label": "Sale" },
+
+        "fit": "Standard",
+
+        "in_stock": true,
+
+        "color": ["Grey", "Green"],
+
+        "sizes": ["M", "L", "XL", "2XL"],
+        "brand": ["Cuba"],
+
+        "id": "434608345254026"
+      }
+    ],
+
+    "Relaxed Fit": [
+      {
+        "title": "TRO25SLKR23589TM1",
+
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/TRO25SLKR23589TM1-Black_165x.jpg?v=1743239414"
+        },
+
+        "price": { "amount": 1499.0, "currencyCode": "EGP" },
+
+        "discount": { "percentage": "50%", "label": "Sale" },
+
+        "fit": "Relaxed",
+
+        "in_stock": false,
+
+        "color": ["Black", "Grey"],
+
+        "sizes": ["L", "XL"],
+        "brand": ["Cuba"],
+
+        "id": "43460834525408"
+      }
+    ]
+  }
+}

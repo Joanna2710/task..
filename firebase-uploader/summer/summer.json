@@ -1,0 +1,430 @@
+{
+  "collection": {
+    "summer": {
+      "Men T-shirts": [
+        {
+          "price": {
+            "amount": 599,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "TSH24SBRO20174TM1",
+            "id": "8668459237600",
+            "type": "Men T-shirts"
+          },
+          "id": "46215046201568",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/TSH24SBRO20174TM1-OFFWHIT.jpg?v=1724344646"
+          },
+          "title": "OFF WHIT / S",
+          "in_stock": true,
+          "quantity": 99,
+          "brand": ["Town Team"],
+          "sizes": ["XL", "4XL", "XS", "S"],
+          "colors": ["White", "Black"]
+        },
+        {
+          "price": {
+            "amount": 479,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "TSH24SBRO20178TM1",
+            "id": "8332930023648",
+            "type": "Men T-shirts"
+          },
+          "id": "45587498926304",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/54_20240601_145100_0053.jpg?v=1724068811"
+          },
+          "title": "Olive / S",
+          "in_stock": true,
+          "quantity": 33,
+          "brand": ["River Nine"],
+          "sizes": ["S", "M", "L", "XL"],
+          "colors": ["Olive", "Black"]
+        },
+        {
+          "price": {
+            "amount": 539,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "TSH24SPRO20179TM1",
+            "id": "8474833617120",
+            "type": "Men T-shirts"
+          },
+          "id": "45988513480928",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/TSH24SPRO20179TM1-Stone.jpg?v=1720259767"
+          },
+          "title": "Stone / S",
+          "in_stock": true,
+          "quantity": 27,
+          "brand": ["Cuba"],
+          "sizes": ["S", "M", "L", "2XL"],
+          "colors": ["Stone", "Navy", "Black", "Café"]
+        },
+        {
+          "price": {
+            "amount": 539,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "TSH24SBRR20013TM1",
+            "id": "8474830733536",
+            "type": "Men T-shirts"
+          },
+          "id": "45554066096352",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/50_20240601_160038_0049.jpg?v=1717676912"
+          },
+          "title": "Black / M",
+          "in_stock": false,
+          "quantity": 67,
+          "brand": ["River Nine"],
+          "sizes": ["M", "L", "6XL", "4XL"],
+          "colors": ["White", "Black"]
+        },
+        {
+          "price": {
+            "amount": 299,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "TSH24SARO20942TM1",
+            "id": "8283264057568",
+            "type": "Men T-shirts"
+          },
+          "id": "44917258223840",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/TSH24SARO20942TM1-Indigo_7e277b9b-9b56-432d-8e12-e36bbd27996b.jpg?v=1724506262"
+          },
+          "title": "Indigo / S",
+          "in_stock": true,
+          "quantity": 90,
+          "brand": ["Town Team"],
+          "sizes": ["2XL", "S"],
+          "colors": ["Brown", "Black"]
+        },
+        {
+          "price": {
+            "amount": 299,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "TSH24SPRO20043TM1",
+            "id": "8283265040608",
+            "type": "Men T-shirts"
+          },
+          "id": "44917265891552",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/TSH24SPRO20043TM1-D-BEIGE_4faf2b86-6f7d-487c-8936-c8a7b781a33f.jpg?v=1717705481"
+          },
+          "title": "D-BEIGE / XL",
+          "in_stock": false,
+          "quantity": 73,
+          "brand": ["Cuba"],
+          "sizes": ["XL", "2XL", "3XL", "4XL"],
+          "colors": ["Grey", "Green"]
+        },
+        {
+          "price": {
+            "amount": 299,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "TSH24SPRO20931TM1",
+            "id": "8283264090336",
+            "type": "Men T-shirts"
+          },
+          "id": "44917258551520",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/TSH24SPRO20931TM1-D-OLIVE_66a18de9-dfbb-46ae-94d0-1e64c4c98e9d.jpg?v=1724506237"
+          },
+          "title": "D-OLIVE / 2XL",
+          "in_stock": true,
+          "quantity": 0,
+          "brand": ["River Nine"],
+          "sizes": ["2XL", "XL", "L"],
+          "colors": ["Orange", "Black"]
+        },
+        {
+          "price": {
+            "amount": 599,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "TSH24SBRO20992TM1",
+            "id": "8668457042144",
+            "type": "Men T-shirts"
+          },
+          "id": "46215028834528",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/TSH24SBRO20992TM1-Black.jpg?v=1724344763"
+          },
+          "title": "Black / 6XL",
+          "in_stock": false,
+          "quantity": 14,
+          "brand": ["Town Team"],
+          "sizes": ["2XL", "XL", "6XL"],
+          "colors": ["Black", "Grey"]
+        },
+        {
+          "price": {
+            "amount": 399,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "TSH24SBRO20998TM1",
+            "id": "8668457107680",
+            "type": "Men T-shirts"
+          },
+          "id": "46215029391584",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/TSH24SBRO20998TM1-Black.jpg?v=1724345827"
+          },
+          "title": "Black / 3XL",
+          "in_stock": false,
+          "quantity": 18,
+          "brand": ["Cuba", "River Nine"],
+          "sizes": ["3XL", "M"],
+          "colors": ["White", "Black"]
+        },
+        {
+          "price": {
+            "amount": 599,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "TSH24SPRO20994TM1",
+            "id": "8668457173216",
+            "type": "Men T-shirts"
+          },
+          "id": "46215030046944",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/TSH24SPRO20994TM1-Stone.jpg?v=1724346093"
+          },
+          "title": "Stone / 3XL",
+          "in_stock": true,
+          "quantity": 26,
+          "brand": ["Town Team"],
+          "sizes": ["M", "3XL", "L", "S"],
+          "colors": ["White", "Brown", "Stone"]
+        },
+        {
+          "price": {
+            "amount": 719,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "TSH24SPRO20995TM1",
+            "id": "8668457205984",
+            "type": "Men T-shirts"
+          },
+          "id": "46215030276320",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/TSH24SPRO20995TM1-OFFWHIT.jpg?v=1724346521"
+          },
+          "title": "OFF WHIT / S",
+          "in_stock": false,
+          "quantity": 62,
+          "brand": ["River Nine"],
+          "sizes": ["L", "S", "4XL", "6XL"],
+          "colors": ["White", "Silver", "Black"]
+        },
+        {
+          "price": {
+            "amount": 719,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "TSH24SPRR20148TM1",
+            "id": "8668457435360",
+            "type": "Men T-shirts"
+          },
+          "id": "46215031980256",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/TSH24SPRR20148TM1-Olive.jpg?v=1724347010"
+          },
+          "title": "Olive / XS",
+          "in_stock": false,
+          "quantity": 97,
+          "brand": ["Town Team"],
+          "sizes": ["XS", "S", "M", "L"],
+          "colors": ["Olive", "Black"]
+        },
+        {
+          "price": {
+            "amount": 599,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "TSH24STRR20142TM1",
+            "id": "8668457533664",
+            "type": "Men T-shirts"
+          },
+          "id": "46215032766688",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/TSH24STRR20142TM1-Charcoal.jpg?v=1724346935"
+          },
+          "title": "Charcoal / XS",
+          "in_stock": false,
+          "quantity": 33,
+          "brand": ["River Nine"],
+          "sizes": ["XS", "S", "M", "L"],
+          "colors": ["Black", "Green"]
+        },
+        {
+          "price": {
+            "amount": 599,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "TSH24SPRO20140TM1",
+            "id": "8668457599200",
+            "type": "Men T-shirts"
+          },
+          "id": "46215033290976",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/TSH24SPRO20140TM1-OFFWHIT.jpg?v=1724347022"
+          },
+          "title": "OFF WHIT / 2XL",
+          "in_stock": false,
+          "quantity": 60,
+          "brand": ["River Nine"],
+          "sizes": ["2XL", "4XL", "3XL", "L"],
+          "colors": ["White", "Black"]
+        },
+        {
+          "price": {
+            "amount": 399,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "TSH24SPRO20101TM1",
+            "id": "8668457992416",
+            "type": "Men T-shirts"
+          },
+          "id": "46215035715808",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/TSH24SPRO20101TM1-LIME.jpg?v=1724345845"
+          },
+          "title": "LIME / L",
+          "in_stock": false,
+          "quantity": 29,
+          "brand": ["Cuba"],
+          "sizes": ["M", "3XL", "XL", "L"],
+          "colors": ["White", "Black"]
+        },
+        {
+          "price": {
+            "amount": 599,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "TSH24SPRO20104TM1",
+            "id": "8668458483936",
+            "type": "Men T-shirts"
+          },
+          "id": "46215040893152",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/TSH24SPRO20104TM1-Black.jpg?v=1724345830"
+          },
+          "title": "Black / M",
+          "in_stock": false,
+          "quantity": 84,
+          "brand": ["Town Team"],
+          "sizes": ["M", "L", "XL", "XS"],
+          "colors": ["Black", "White"]
+        },
+        {
+          "price": {
+            "amount": 599,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "TSH24SPRO20081TM1",
+            "id": "8668458516704",
+            "type": "Men T-shirts"
+          },
+          "id": "46215041122528",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/TSH24SPRO20081TM1-OFFWHIT.jpg?v=1724345844"
+          },
+          "title": "OFF WHIT / 3XL",
+          "in_stock": false,
+          "quantity": 50,
+          "brand": ["Cuba"],
+          "sizes": ["S", "3XL", "4XL"],
+          "colors": ["White", "Orange"]
+        }
+      ],
+      "Men Polo shirts": [
+        {
+          "price": {
+            "amount": 539,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "POS24SAPU21825TM1",
+            "id": "8474831552736",
+            "type": "Men Polo shirts"
+          },
+          "id": "45554069668064",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/POS24SAPU21825TM1-Simon.jpg?v=1720004168"
+          },
+          "title": "Simon / S",
+          "in_stock": true,
+          "quantity": 30,
+          "brand": ["River Nine"],
+          "sizes": ["L", "4XL", "2XL", "S"],
+          "colors": ["Grey", "Orange", "Black"]
+        },
+        {
+          "price": {
+            "amount": 599,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "POS24SBTR21813TM1",
+            "id": "8436538605792",
+            "type": "Men Polo shirts"
+          },
+          "id": "45683551502560",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/POS24SBTR21813TM1-Black.jpg?v=1716977417"
+          },
+          "title": "Black / S",
+          "in_stock": false,
+          "quantity": 78,
+          "brand": ["Town Team"],
+          "sizes": ["S", "M", "XS"],
+          "colors": ["White", "Stone", "Black"]
+        },
+        {
+          "price": {
+            "amount": 599,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "POS24SPPR21848TM1",
+            "id": "8521806938336",
+            "type": "Men Polo shirts"
+          },
+          "id": "45747325305056",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/POS24SPPR21848TM1-Navy.jpg?v=1717657979"
+          },
+          "title": "Navy / S",
+          "in_stock": false,
+          "quantity": 4,
+          "brand": ["River Nine"],
+          "sizes": ["S", "M", "L", "XL"],
+          "colors": ["Navy", "Black"]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,541 @@
+{
+  "accessories": {
+    "Perfumes": [
+      {
+        "price": {
+          "amount": 599.0,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "SET22SSETST001TM1",
+          "id": "8045876773088",
+          "type": "PERFUME"
+        },
+        "id": "44011863834848",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/1_5542e8a1-6a63-4463-9e81-d2bff23532b3.png?v=1707404175"
+        },
+        "title": "SET22SSETST001TM1",
+        "in_stock": true,
+        "brand": ["Town Team"],
+        "quantity": 86
+      },
+      {
+        "price": {
+          "amount": 599.0,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "PERTWN99008-100ML",
+          "id": "8045876773088",
+          "type": "PERFUMES"
+        },
+        "id": "44011863834850",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/1_0f3ce1a5-f0c0-48cb-8895-06a4ccada01d.png?v=1707404092"
+        },
+        "title": "PERTWN99008-100ML",
+        "in_stock": true,
+        "brand": ["Cuba"],
+        "quantity": 49
+      },
+      {
+        "price": {
+          "amount": 399.0,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "PER22SPER99010TM1",
+          "id": "8045876773088",
+          "type": "PERFUMES"
+        },
+        "id": "44011863834851",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/1_12133fae-1bef-4dd8-807a-aa1ef05d3a02.png?v=1707378669"
+        },
+        "title": "PER22SPER99010TM1",
+        "in_stock": false,
+        "brand": ["River Nine"],
+        "quantity": 4
+      },
+      {
+        "price": {
+          "amount": 299.0,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "PER24GPEM99035TM1",
+          "id": "8045876773088",
+          "type": "PERFUMES"
+        },
+        "id": "44011863834852",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/2_009ca2d7-b82f-40b1-bd40-0ca3de02bedb.png?v=1717069332"
+        },
+        "title": "PER24GPEM99035TM1",
+        "in_stock": true,
+        "brand": ["Town Team", "Cuba"],
+        "quantity": 11
+      },
+      {
+        "price": {
+          "amount": 299.0,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "PER24GPEM99038TM1",
+          "id": "8045876773088",
+          "type": "Perfumes"
+        },
+        "id": "44011863834862",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/1_06882928-7a82-41a6-af1c-c7f0c8f9cbf5.png?v=1717069113"
+        },
+        "title": "PER24GPEM99038TM1",
+        "in_stock": true,
+        "brand": ["Town Team", "River Nine"],
+        "quantity": 55
+      }
+    ],
+    "Body Splash": [
+      {
+        "price": {
+          "amount": 129.0,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "BOD22SBSPB0001TM1",
+          "id": "8045876773088",
+          "type": "BOD - BODY SPLASH"
+        },
+        "id": "44011863834849",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/1_4b8ce3ed-c5f0-4e48-8b08-2d3e2c9ee7a6.png?v=1707378542"
+        },
+        "title": "BOD22SBSPB0001TM1",
+        "in_stock": false,
+        "brand": ["Town Team", "Cuba"],
+        "quantity": 58
+      },
+      {
+        "price": {
+          "amount": 129.0,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "BOD24GWXS99034TM1",
+          "id": "8045876773088",
+          "type": "BOD - BODY SPLASH"
+        },
+        "id": "44011863834859",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/1_cffca1e7-2307-4e72-88e3-994f936a76a5.png?v=1721218943"
+        },
+        "title": "BOD24GWXS99034TM1",
+        "in_stock": true,
+        "brand": ["Cuba", "River Nine"],
+        "quantity": 5
+      },
+      {
+        "price": {
+          "amount": 129.0,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "BOD22SBSPB0003TM1",
+          "id": "8045876773088",
+          "type": "BOD - BODY SPLASH"
+        },
+        "id": "44011863834860",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/1_7011cbf7-557f-444f-a640-2eaec6eb90a8.png?v=1707404063"
+        },
+        "title": "BOD22SBSPB0003TM1",
+        "in_stock": false,
+        "brand": ["Cuba", "River Nine"],
+        "quantity": 15
+      }
+    ],
+    "Deodorant": [
+      {
+        "price": {
+          "amount": 59.0,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "DEO22SDEOD0002TM1",
+          "id": "8045876773088",
+          "type": "DEODRANT"
+        },
+        "id": "44011863834853",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/1_204181c0-d80d-441d-bd8c-93668d9158e9.png?v=1707378631"
+        },
+        "title": "DEO22SDEOD0002TM1",
+        "in_stock": true,
+        "brand": ["Town Team", "Cuba"],
+        "quantity": 58
+      },
+      {
+        "price": {
+          "amount": 59.0,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "DEO22SDEOD0003TM1",
+          "id": "8045876773088",
+          "type": "DEODRANT"
+        },
+        "id": "44011863834854",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/1_9ccf59ce-9210-4930-8f3c-b931a27825c0.png?v=1708270029"
+        },
+        "title": "DEO22SDEOD0003TM1",
+        "in_stock": false,
+        "brand": ["Cuba", "River Nine"],
+        "quantity": 76
+      },
+      {
+        "price": {
+          "amount": 59.0,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "DEO22SDEOD0001TM1",
+          "id": "8045876773088",
+          "type": "DEODRANT"
+        },
+        "id": "44011863834855",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/1_9fd8fff8-b506-420d-a97f-e5f261dfac31.png?v=1707378609"
+        },
+        "title": "DEO22SDEOD0001TM1",
+        "in_stock": false,
+        "brand": ["River Nine"],
+        "quantity": 23
+      }
+    ],
+    "Wallets": [
+      {
+        "price": {
+          "amount": 399.0,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "WLT24GWLB57243TM1",
+          "id": "8045876773088",
+          "type": "Wallets - WLT"
+        },
+        "id": "44011863834856",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/3_f76ae849-1070-46e8-9cfb-49750c5dc2dd.png?v=1743074929"
+        },
+        "title": "WLT24GWLB57243TM1",
+        "in_stock": true,
+        "brand": ["Town Team"],
+        "quantity": 13
+      },
+      {
+        "price": {
+          "amount": 399.0,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "WLT24GWLB57241TM1",
+          "id": "8045876773088",
+          "type": "Wallets - WLT"
+        },
+        "id": "44011863834857",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/1_081e4a43-fe9c-4930-83f8-2daa1913ab81.png?v=1741443609"
+        },
+        "title": "WLT24GWLB57241TM1",
+        "in_stock": true,
+        "brand": ["Cuba"],
+        "quantity": 78
+      },
+      {
+        "price": {
+          "amount": 499.0,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "WLT24GWLB57248TM1",
+          "id": "8045876773088",
+          "type": "Wallets - WLT"
+        },
+        "id": "44011863834858",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/1_efc467f6-6752-4a29-8a86-8625be9ecd89.png?v=1743074858"
+        },
+        "title": "WLT24GWLB57248TM1",
+        "in_stock": false,
+        "brand": ["Town Team", "River Nine"],
+        "quantity": 17
+      }
+    ],
+    "Body Care": [
+      {
+        "price": {
+          "amount": 59.0,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "DEO24SDEO99033TM1",
+          "id": "8045876773088",
+          "type": "Body Care - DEO"
+        },
+        "id": "44011863834861",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/1_e0db31a0-b54a-426d-8b1b-a3855e691255.png?v=1721218881"
+        },
+        "title": "DEO24SDEO99033TM1",
+        "in_stock": false,
+        "brand": ["Cuba", "River Nine"],
+        "quantity": 80
+      }
+    ],
+    "Belts": [
+      {
+        "price": {
+          "amount": 449.0,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "BEL24GBBU52243TM1",
+          "id": "8045876773088",
+          "type": "Belts - BEL"
+        },
+        "id": "44011863834863",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/brown.png?v=1721218915"
+        },
+        "title": "BEL24GBBU52243TM1",
+        "in_stock": false,
+        "brand": ["Town Team", "Cuba"],
+        "quantity": 1
+      },
+      {
+        "price": {
+          "amount": 499.0,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "BEL25GBBU52252TM1",
+          "id": "8045876773088",
+          "type": "Belts - BEL"
+        },
+        "id": "44011863834864",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/1_bec35b5c-4ad4-4763-9240-458768173499.png?v=1737381629"
+        },
+        "title": "BEL25GBBU52252TM1",
+        "in_stock": false,
+        "brand": ["Cuba", "River Nine"],
+        "quantity": 72
+      },
+      {
+        "price": {
+          "amount": 449.0,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "BEL24GBBU52245TM1",
+          "id": "8045876773088",
+          "type": "Belts - BEL"
+        },
+        "id": "44011863834865",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/1_7d9e8c52-889a-4918-be3c-6b27fe475b8a.png?v=1728997307"
+        },
+        "title": "BEL24GBBU52245TM1",
+        "in_stock": false,
+        "brand": ["Town Team"],
+        "quantity": 10
+      }
+    ],
+    "Boxers": [
+      {
+        "price": {
+          "amount": 149.0,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "BOX25GBCA99479TM1",
+          "id": "8045876773088",
+          "type": "Boxers - BOX"
+        },
+        "id": "44011863834872",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/1_c56f862d-4de6-43f4-85d1-208a99db7247.png?v=1740656443"
+        },
+        "title": "BOX25GBCA99479TM1",
+        "in_stock": false,
+        "brand": ["Town Team", "River Nine"],
+        "quantity": 62
+      },
+      {
+        "price": {
+          "amount": 149.0,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "BOX25GBCB99482TM1",
+          "id": "8045876773088",
+          "type": "Boxers - BOX"
+        },
+        "id": "44011863834873",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/1_21d9395a-c2d4-444d-8b46-d30cd467bf1c.png?v=1740656616"
+        },
+        "title": "BOX25GBCB99482TM1",
+        "in_stock": true,
+        "brand": ["Town Team", "Cuba"],
+        "quantity": 76
+      }
+    ],
+    "Socks": [
+      {
+        "price": {
+          "amount": 149.0,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "SOK24GNPC52436TM1",
+          "id": "8045876773088",
+          "type": "Socks - SOK"
+        },
+        "id": "44011863834877",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/1_0c42358b-28d2-4c7d-aee6-f4ef44a166fb.png?v=1705758861"
+        },
+        "title": "SOK24GNPC52436TM1",
+        "in_stock": true,
+        "brand": ["Town Team", "River Nine"],
+        "quantity": 96
+      },
+      {
+        "price": {
+          "amount": 179.0,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "SOK24GHPC52432TM1",
+          "id": "8045876773088",
+          "type": "Socks - SOK"
+        },
+        "id": "44011863834881",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/1_f149364a-fca9-48b4-9a7b-74d5cc1f8691.png?v=1703425516"
+        },
+        "title": "SOK24GHPC52432TM1",
+        "in_stock": true,
+        "brand": ["Cuba", "River Nine"],
+        "quantity": 7
+      }
+    ],
+    "Sets": [
+      {
+        "price": {
+          "amount": 279.0,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "ACS23GIPA27377TM1",
+          "id": "8045876773088",
+          "type": "Sets - ACS"
+        },
+        "id": "44011863834878",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/1_69a2f7d6-56af-4758-a1d3-2b650fd6d289.png?v=1700921573"
+        },
+        "title": "ACS23GIPA27377TM1",
+        "in_stock": true,
+        "brand": ["Town Team"],
+        "quantity": 17
+      }
+    ],
+    "Ice Caps": [
+      {
+        "price": {
+          "amount": 189.0,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "ICC23GIWP27378TM1",
+          "id": "8045876773088",
+          "type": "Ice Caps - ICC"
+        },
+        "id": "44011863834879",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/2_8df40e12-1d92-4015-a795-1a627f3f40c1.png?v=1740319470"
+        },
+        "title": "ICC23GIWP27378TM1",
+        "in_stock": false,
+        "brand": ["Cuba", "River Nine"],
+        "quantity": 8
+      }
+    ],
+    "Gloves": [
+      {
+        "price": {
+          "amount": 149.0,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "GLV23GFWQ27375TM1",
+          "id": "8045876773088",
+          "type": "Gloves - GLV"
+        },
+        "id": "44011863834880",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/1_e2143fe6-3df2-41ec-a32b-c0d6f75abb0f.png?v=1740319449"
+        },
+        "title": "GLV23GFWQ27375TM1",
+        "in_stock": true,
+        "brand": ["Town Team", "River Nine"],
+        "quantity": 48
+      }
+    ],
+    "Bags": [
+      {
+        "price": {
+          "amount": 599.0,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "HBG24GXXX57231TM1",
+          "id": "8045876773088",
+          "type": "Bags - HBG"
+        },
+        "id": "44011863834886",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/2_02b51be0-3fae-4221-a054-cf8a60e1951c.png?v=1733752263"
+        },
+        "title": "HBG24GXXX57231TM1",
+        "in_stock": false,
+        "brand": ["Town Team", "Cuba"],
+        "quantity": 43
+      },
+      {
+        "price": {
+          "amount": 749.0,
+          "currencyCode": "EGP"
+        },
+        "product": {
+          "title": "HBG24GXXX57232TM1",
+          "id": "8045876773088",
+          "type": "Bags - HBG"
+        },
+        "id": "44011863834887",
+        "image": {
+          "src": "//townteam.com/cdn/shop/files/4_f243cb71-29c7-43e2-9e00-6bf9511995df.png?v=1721218812"
+        },
+        "title": "HBG24GXXX57232TM1",
+        "in_stock": false,
+        "brand": ["Cuba", "River Nine"],
+        "quantity": 57
+      }
+    ]
+  }
+}

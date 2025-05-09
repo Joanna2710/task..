@@ -1,0 +1,413 @@
+{
+  "collection": {
+    "winter": {
+      "Men Jackets": [
+        {
+          "price": {
+            "amount": 1099,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "JAC23WFWP28375TM1",
+            "id": "8008524202208",
+            "type": "MEN JACKET"
+          },
+          "id": "43907709960416",
+          "image": {
+            "src": "//townteam.com/cdn/shop/products/JAC23WFWP28375TM1_NAVY-RED-2.jpg?v=1702389728"
+          },
+          "title": "Red*Blue / S",
+          "in_stock": true,
+          "quantity": 4,
+          "brand": ["Town Team"],
+          "sizes": ["S", "M", "XL", "4XL"],
+          "colors": ["Blue", "Red"]
+        },
+        {
+          "price": {
+            "amount": 1049,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "JAC24WWCL28394TM1",
+            "id": "8104007925984",
+            "type": "Men Jackets"
+          },
+          "id": "46550704914656",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/JAC24WWCL28394TM1-BLK-YLW.jpg?v=1735141322"
+          },
+          "title": "BLK/YLW / S",
+          "in_stock": true,
+          "quantity": 15,
+          "brand": ["Town Team"],
+          "sizes": ["S", "6XL", "XS", "L"],
+          "colors": ["Black", "Yellow"]
+        },
+        {
+          "price": {
+            "amount": 1139,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "JAC24WCCP28431TM1",
+            "id": "8177771479264",
+            "type": "Men Jackets"
+          },
+          "id": "44391251804384",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/JAC24WCCP28431TM1_CHRL_BLK.jpg?v=1735141238"
+          },
+          "title": "Charcoal*Black / S",
+          "in_stock": true,
+          "quantity": 25,
+          "brand": ["River Nine"],
+          "sizes": ["S", "6XL"],
+          "colors": ["White", "Grey", "Black"]
+        }
+      ],
+      "Men Sweatshirts": [
+        {
+          "price": {
+            "amount": 549,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "SWS23WFL411709HM1",
+            "id": "8177758077152",
+            "type": "Men Sweatshirts"
+          },
+          "id": "44391221690592",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/SWS23WFL411709HM1_RoyalBlue.jpg?v=1735141729"
+          },
+          "title": "Royal Blue / S",
+          "in_stock": true,
+          "quantity": 18,
+          "brand": ["Town Team"],
+          "sizes": ["S"],
+          "colors": ["Blue"]
+        },
+        {
+          "price": {
+            "amount": 539,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "SWS24WHPK26143TM1",
+            "id": "8223360811232",
+            "type": "Men Sweatshirts"
+          },
+          "id": "44630002696416",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/SWS24WHPK26143TM1_Mauve.jpg?v=1735141938"
+          },
+          "title": "Mauve / 4XL",
+          "in_stock": false,
+          "quantity": 93,
+          "brand": ["Town Team"],
+          "sizes": ["M", "6XL", "4XL", "S"],
+          "colors": ["Orange", "Black"]
+        },
+        {
+          "price": {
+            "amount": 659,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "SWS24WZNK26157TM1",
+            "id": "8223360319712",
+            "type": "Men Sweatshirts"
+          },
+          "id": "44629996437728",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/SWS24WZNK26157TM1_L-BEIGE.jpg?v=1735142014"
+          },
+          "title": "L-BEIGE / XL",
+          "in_stock": false,
+          "quantity": 32,
+          "brand": ["River Nine"],
+          "sizes": ["XL", "M", "S"],
+          "colors": ["Beige", "Black"]
+        },
+        {
+          "price": {
+            "amount": 509,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "SWS24WZPK26741TM1",
+            "id": "8104778170592",
+            "type": "Men Sweatshirts"
+          },
+          "id": "44194501034208",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/SWS24WZPK26741TM1-Charcoal.jpg?v=1735142023"
+          },
+          "title": "Charcoal / 3XL",
+          "in_stock": true,
+          "quantity": 53,
+          "brand": ["Cuba"],
+          "sizes": ["L", "4XL", "2XL", "3XL"],
+          "colors": ["Grey", "White"]
+        },
+        {
+          "price": {
+            "amount": 659,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "SWS24WHWK26062TM1",
+            "id": "8177803428064",
+            "type": "Men Sweatshirts"
+          },
+          "id": "44391321764064",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/SWS24WHWK26062TM1_Charcoal.jpg?v=1735141944"
+          },
+          "title": "Charcoal / 2XL",
+          "in_stock": true,
+          "quantity": 40,
+          "brand": ["River Nine"],
+          "sizes": ["2XL"],
+          "colors": ["Black", "Olive"]
+        },
+        {
+          "price": {
+            "amount": 599,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "SWS24WRAL26140TM1",
+            "id": "8223358255328",
+            "type": "Men Sweatshirts"
+          },
+          "id": "44629969633504",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/SWS24WRAL26140TM1_D-GREY.jpg?v=1735141957"
+          },
+          "title": "D-GREY / XL",
+          "in_stock": true,
+          "quantity": 39,
+          "brand": ["River Nine"],
+          "sizes": ["L", "6XL", "XL"],
+          "colors": ["Black", "GREY"]
+        },
+        {
+          "price": {
+            "amount": 749,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "SWS24WCCS26017TM1",
+            "id": "8223358714080",
+            "type": "Men Sweatshirts"
+          },
+          "id": "44629975892192",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/SWS24WCCS26017TM1_BRN_WHT.jpg?v=1735141844"
+          },
+          "title": "BRN/WHT / 2XL",
+          "in_stock": false,
+          "quantity": 95,
+          "brand": ["Town Team"],
+          "sizes": ["3XL", "2XL", "6XL", "4XL"],
+          "colors": ["White", "GREY", "BLUE"]
+        },
+        {
+          "price": {
+            "amount": 539,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "SWS24WHNK26100TM1",
+            "id": "8223359828192",
+            "type": "Men Sweatshirts"
+          },
+          "id": "44629989458144",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/SWS24WHNK26100TM1_Yellow.jpg?v=1735141906"
+          },
+          "title": "Yellow / 2XL",
+          "in_stock": true,
+          "quantity": 69,
+          "brand": ["River Nine"],
+          "sizes": ["2XL", "4XL", "XL"],
+          "colors": ["Yellow", "Black"]
+        },
+        {
+          "price": {
+            "amount": 659,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "SWS24WZNK26156TM1",
+            "id": "8223360483552",
+            "type": "Men Sweatshirts"
+          },
+          "id": "44629999026400",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/SWS24WZNK26156TM1_Mauve.jpg?v=1735142012"
+          },
+          "title": "Mauve / XL",
+          "in_stock": true,
+          "quantity": 20,
+          "brand": ["River Nine"],
+          "sizes": ["S", "M", "6XL", "XL"],
+          "colors": ["White", "Black"]
+        },
+        {
+          "price": {
+            "amount": 399,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "SWS23WMIL26791TM1",
+            "id": "7941783748832",
+            "type": "MEN SWEAT SHIRT"
+          },
+          "id": "43830765453536",
+          "image": {
+            "src": "//townteam.com/cdn/shop/products/SWS23WMIL26791TM1-MUSTARD_1of4.jpg?v=1697546851"
+          },
+          "title": "Yellow / S",
+          "in_stock": false,
+          "quantity": 26,
+          "brand": ["Cuba"],
+          "sizes": ["3XL", "S", "2XL", "L"],
+          "colors": ["Yellow", "Black"]
+        },
+        {
+          "price": {
+            "amount": 399,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "SWS23WMIL26722TM1",
+            "id": "7962524418272",
+            "type": "MEN SWEAT SHIRT"
+          },
+          "id": "43830760046816",
+          "image": {
+            "src": "//townteam.com/cdn/shop/products/SWS23WMIL26722TM1-ORANGE.jpg?v=1671798076"
+          },
+          "title": "Orange / XL",
+          "in_stock": false,
+          "quantity": 64,
+          "brand": ["River Nine"],
+          "sizes": ["XL", "3XL", "2XL", "S"],
+          "colors": ["Orange","green"]
+        },
+        {
+          "price": {
+            "amount": 399,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "SWS23WMIL26701TM1",
+            "id": "7871017713888",
+            "type": "MEN SWEAT SHIRT"
+          },
+          "id": "43460834525408",
+          "image": {
+            "src": "//townteam.com/cdn/shop/products/DSC_6692.jpg?v=1687264097"
+          },
+          "title": "CYRRY / S",
+          "in_stock": false,
+          "quantity": 65,
+          "brand": ["Town Team"],
+          "sizes": ["S", "XS"],
+          "colors": ["Grey", "green"]
+        }
+      ],
+      "Men Autumn Shirts": [
+        {
+          "price": {
+            "amount": 449,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "FSH22AFCH19762TM1",
+            "id": "8104006320352",
+            "type": "Men Autumn Shirts"
+          },
+          "id": "44192282607840",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/FSH22AFCH19762TM1-Grey.jpg?v=1735141169"
+          },
+          "title": "Grey / S",
+          "in_stock": false,
+          "quantity": 80,
+          "brand": ["River Nine"],
+          "sizes": ["6XL", "M", "S"],
+          "colors": ["White", "Grey"]
+        }
+      ],
+      "Men Pullovers": [
+        {
+          "price": {
+            "amount": 659,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "PUL24WPSZ27625TM1",
+            "id": "8277094039776",
+            "type": "Men Pullovers"
+          },
+          "id": "46599886340320",
+          "image": {
+            "src": "//townteam.com/cdn/shop/files/PUL24WPSZ27625TM1-NVY-BGE.jpg?v=1735141651"
+          },
+          "title": "NVY/BGE / S",
+          "in_stock": true,
+          "quantity": 84,
+          "brand": ["Cuba"],
+          "sizes": ["S", "M", "L", "XL"],
+          "colors": ["Blue", "Orange", "Black"]
+        },
+        {
+          "price": {
+            "amount": 399,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "PUL23WCOT27446TM1",
+            "id": "7871017484512",
+            "type": "MEN PULLOVER"
+          },
+          "id": "43830856909024",
+          "image": {
+            "src": "//townteam.com/cdn/shop/products/PUL23WCOT27446TM1-DK.RED_1of4.jpg?v=1673450765"
+          },
+          "title": "Red / S",
+          "in_stock": true,
+          "quantity": 43,
+          "brand": ["River Nine"],
+          "sizes": ["S", "6XL"],
+          "colors": ["Red", "Black"]
+        },
+        {
+          "price": {
+            "amount": 399,
+            "currencyCode": "EGP"
+          },
+          "product": {
+            "title": "PUL23WCOT27410TM1",
+            "id": "7871015485664",
+            "type": "MEN PULLOVER"
+          },
+          "id": "43830869754080",
+          "image": {
+            "src": "//townteam.com/cdn/shop/products/DSC_6390_def157e8-24dd-4459-8eac-6dd8fe3b5fb6.jpg?v=1716989169"
+          },
+          "title": "Blue / S",
+          "in_stock": true,
+          "quantity": 36,
+          "brand": ["Town Team"],
+          "sizes": ["S"],
+          "colors": ["Blue", "Orange"]
+        }
+      ]
+    }
+  }
+}
